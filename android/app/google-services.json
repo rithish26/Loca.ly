@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704401145230",
+    "project_id": "flashchat-39a99",
+    "storage_bucket": "flashchat-39a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704401145230:android:51262abb946128e0bc38df",
+        "android_client_info": {
+          "package_name": "co.rithish.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704401145230-1qrhil4l5n4as3p3ueaeqmj1kf1i9t8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrTZQvpkxUuTocYOQaN29wYnd6YIsm6Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704401145230-1qrhil4l5n4as3p3ueaeqmj1kf1i9t8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
